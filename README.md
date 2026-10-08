@@ -1,6 +1,6 @@
 # SIEM Threat Hunting
 
-Threat hunting and log analysis in Splunk, plus a comparison of Splunk and Wazuh as SIEM platforms. Part of the CYB2100 Cyber Defense exam at Kristiania.
+Threat hunting and log analysis in Splunk, plus a comparison of Splunk and Wazuh as SIEM platforms.
 
 ## Overview
 
